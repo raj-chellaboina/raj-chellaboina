@@ -36,7 +36,7 @@
   </a>
 </p>
 
-> **Note:** If you do not see images for Code360, upload their logo image (`assets/code360.png`) to your profile repo and use the above path.
+
 
 ---
 
