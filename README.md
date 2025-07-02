@@ -41,10 +41,10 @@
 ---
 
 - 🔭 I’m currently working on **[Your Project/Tech]**
-- 🌱 I’m currently learning **[Your Learning Focus]**
+- 🌱 I’m currently learning **React**
 - 💬 Ask me about: **DSA, Java, C, C++, Python, React, Node.js, SQL, MongoDB, Machine Learning, Deep Learning**
 - 📫 How to reach me: **chellaboinayesuraju@gmail.com**
-- 📄 Know about my experiences [Add your CV/Resume link or remove this line]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KMocvSdS0_RCBkqknTssSyp1zd_KxcPB/view?usp=drive_link" target="_blank">Click! </a>
 
 ---
 
