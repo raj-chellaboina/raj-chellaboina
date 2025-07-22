@@ -44,7 +44,7 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about: **DSA, Java, C, C++, Python, React, Node.js, SQL, MongoDB, Machine Learning, Deep Learning**
 - 📫 How to reach me: **chellaboinayesuraju@gmail.com**
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1KMocvSdS0_RCBkqknTssSyp1zd_KxcPB/view?usp=drive_link" target="_blank">Click! </a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/18lFJSqMhL1nKgoBz9fXSTZA_3HhvJzU9/view?usp=drive_link" target="_blank">Click! </a>
 
 ---
 
