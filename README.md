@@ -14,8 +14,7 @@
 ---
 
 <p align="center">
-I am passionate about software development and always eager to learn new technologies. My interests span from Data Structures and Algorithms to Modern Web Development and Machine Learning.<br>
-Check out my portfolio: <a href="https://raj-portfolio-site.web.app/" target="_blank">raj-portfolio</a>
+I am passionate about software development and always eager to learn new technologies. My interests span from Data Structures and Algorithms to Modern Web Development and Machine Learning.
 </p>
 
 ---
@@ -27,16 +26,8 @@ Check out my portfolio: <a href="https://raj-portfolio-site.web.app/" target="_b
   - SQL, MongoDB
   - Machine Learning, Deep Learning
 - 📫 How to reach me: **chellaboinayesuraju@gmail.com**
+- Port-folio: <a href="https://raj-portfolio-site.web.app/">Click here</a>
 - 📄 Know about my experiences: <a href="https://drive.google.com/file/d/18lFJSqMhL1nKgoBz9fXSTZA_3HhvJzU9/view?usp=drive_link" target="_blank">Click here</a>
-
----
-
-<h3 align="left">Portfolio:</h3>
-<p align="left">
-  <a href="https://raj-portfolio-site.web.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=Firefox" alt="Portfolio" />
-  </a>
-</p>
 
 ---
 
